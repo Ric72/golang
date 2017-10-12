@@ -2,5 +2,5 @@
 
 /*
 test1 document
-*/
+*////
 package main
